@@ -27,5 +27,3 @@ Career developed in the field of information technology, administration and conf
 • Experience in managing virtualized environments, container applications, cloud computing, configuration management and service automation, monitoring and metrics.
 
 • Experience with public key infrastructure and ICP-Brasil certificates.
-
-Linkedin: https://www.linkedin.com/in/fabianosantosflorentino
