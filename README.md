@@ -17,12 +17,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Career developed in the field of information technology, administration and configuration of systems and software engineering, with emphasis on SRE and DevOps practices.
+I am an experienced IT professional, with strong experience in Systems Administration, Software Engineering, and Setting Management. My career has focused on SRE and DevOps practices, in which I have gained extensive experience in managing and implementing information and information systems. I have experience in Linux services and computer systems, as well as application management in containers, continuous integration and delivery, and monitoring systems and metrics.
 
-• Management and implementation of services and information systems following SRE practices and DevOps culture, seeking performance, automation, stability, resilience, scalability and security.
+As an enthusiast of DevOps, I am always looking for ways to improve performance, automation, stability, resilience, scalability, and safety. I have a broad and comprehensive understanding of technology infrastructure solutions, including virtualized environments, cloud computing, and container applications. I also have experience in Public Key Infrastructure and ICP-Brazil certificates, which allowed me to work on complex information security systems.
 
-• Strong performance in the management, implementation and monitoring of services and Linux computing systems, providing configuration management, containerized application management, service mesh, integration and continuous delivery, package repository, web services, proxy, firewall, routing, balancing load, database, backup systems and monitoring systems and metrics.
-
-• Experience in managing virtualized environments, container applications, cloud computing, configuration management and service automation, monitoring and metrics.
-
-• Experience with public key infrastructure and ICP-Brasil certificates.
+I am a collaborative professional who loves teamwork and finding innovative and efficient solutions to meet the needs of my clients. With exceptional problem-solving and leadership skills, I am always ready to face new challenges and find effective solutions. Technical excellence is fundamental to me and I am always learning new technologies and methodologies to ensure that my solutions are updated and effective.
