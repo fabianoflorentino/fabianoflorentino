@@ -21,5 +21,3 @@ I am an experienced IT professional, with strong experience in Systems Administr
 As an enthusiast of DevOps, I am always looking for ways to improve performance, automation, stability, resilience, scalability, and safety. I have a broad and comprehensive understanding of technology infrastructure solutions, including virtualized environments, cloud computing, and container applications. I also have experience in Public Key Infrastructure and ICP-Brazil certificates, which allowed me to work on complex information security systems.
 
 I am a collaborative professional who loves teamwork and finding innovative and efficient solutions to meet the needs of my clients. With exceptional problem-solving and leadership skills, I am always ready to face new challenges and find effective solutions. Technical excellence is fundamental to me and I am always learning new technologies and methodologies to ensure that my solutions are updated and effective.
-
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=fabianoflorentino)
