@@ -14,10 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-With a solid trajectory in the Information Technology area, I focused on systems administration and configuration, in addition to exploring software engineering, focusing on practices such as Site Reliability Engineering (SRE) and DevOps. Over the years, I have acquired expertise in systems management, software development, and configurations, with specialization in SRE and DevOps. My experience ranges from managing and implementing information services and systems to dealing with Linux systems, containerized applications, continuous integration, software delivery, monitoring, and metrics.
+I'm a software developer specializing in Ruby, focused on distributed systems, microservices, and REST APIs for the corporate backend. I have solid experience creating scalable and robust solutions, optimizing performance, and ensuring high performance and resilience. My expertise includes RESTful API design, microservices development, and distributed systems architecture.
 
-As an enthusiast of DevOps and SRE cultures, I constantly seek performance optimization, process automation, and security assurance, always prioritizing the stability, resilience, and scalability of systems. I have extensive knowledge of technological infrastructure, including virtualized environments, cloud computing, and containerized applications.
+With a strong foundation in systems administration and configuration, I work in SRE and DevOps practices, covering continuous integration, software delivery, monitoring, and automation—in-depth knowledge of virtualized environments, cloud computing, and containers.
 
-Currently, I am transitioning to the software development area, focusing on building and maintaining APIs in distributed systems. My experience is focused on Ruby on Rails, ranging from web development fundamentals to creating scalable applications. I am committed to improving my expertise in API architecture, and scalability, and applying design principles aimed at services and microservices. I focus on backend development to build robust and highly scalable systems, making use of frameworks and technologies specialized in reliable and efficient APIs.
-
-I am an enthusiastic collaborator, passionate about working as a team in the search for innovative and effective solutions, with proven skills in problem-solving and leadership. I am always ready to face new challenges and stay up to date with the latest trends and practices in the sector.
+I am committed to innovation and excellence, I work collaboratively to deliver high-quality solutions and am always up to date with industry trends, ready to face new challenges and contribute to the team's success.
