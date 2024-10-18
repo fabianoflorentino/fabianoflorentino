@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a software developer specializing in Ruby, focused on distributed systems, microservices, and REST APIs for the corporate backend. I have solid experience creating scalable and robust solutions, optimizing performance, and ensuring high performance and resilience. My expertise includes RESTful API design, microservices development, and distributed systems architecture.
+Software developer specializing in Ruby, focusing on distributed systems, microservices, and REST APIs for corporate backends. I have extensive experience creating scalable and robust solutions, optimizing performance, and ensuring resilience and high availability. My expertise includes RESTful API design, microservices development, and distributed system architectures.
 
-With a strong foundation in systems administration and configuration, I work in SRE and DevOps practices, covering continuous integration, software delivery, monitoring, and automation—in-depth knowledge of virtualized environments, cloud computing, and containers.
+With a solid foundation in systems administration, SRE, and DevOps practices, I have worked on continuous integration, automation, monitoring, and software delivery. I possess in-depth knowledge of virtualized environments, cloud computing, and containerization technologies such as Docker and Kubernetes.
 
-I am committed to innovation and excellence, I work collaboratively to deliver high-quality solutions and am always up to date with industry trends, ready to face new challenges and contribute to the team's success.
+Driven by innovation and excellence, I collaborate effectively to deliver high-impact solutions. I stay current with industry trends and am always ready to tackle new challenges that add value and drive success for my teams and projects.
