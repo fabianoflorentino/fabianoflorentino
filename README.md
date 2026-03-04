@@ -1,5 +1,4 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabianosantosflorentino/)](https://www.linkedin.com/in/fabianosantosflorentino/)
-[![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&link=https://dev.to/fabianoflorentino)](https://dev.to/fabianoflorentino)
 <!--
 **fabianoflorentino/fabianoflorentino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
