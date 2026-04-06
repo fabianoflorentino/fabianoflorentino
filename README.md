@@ -13,8 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Software developer specializing in Go and Ruby, focusing on distributed systems, microservices, and REST APIs for corporate backends. I have extensive experience creating scalable and robust solutions, optimizing performance, and ensuring resilience and high availability. My expertise includes RESTful API design, microservices development, and distributed system architectures.
+I am a backend-focused software engineer with a strong background in Go for building distributed systems at scale. Throughout my career, I have specialized in transforming complex problems into simple, reliable, and easily scalable solutions, always focusing on performance and predictability in production.
 
-With a solid foundation in systems administration, SRE, and DevOps practices, I have worked on continuous integration, automation, monitoring, and software delivery. I possess in-depth knowledge of virtualized environments, cloud computing, and containerization technologies such as Docker and Kubernetes.
+Currently, I am part of the backend team at the Kyndryl Bridge platform, where I develop Go services for an automation orchestration platform that supports mission-critical operations. I work daily with high-volume workloads, concurrency, and rigorous reliability requirements, building systems ready to scale.
 
-Driven by innovation and excellence, I collaborate effectively to deliver high-impact solutions. I stay current with industry trends and am always ready to tackle new challenges that add value and drive success for my teams and projects.
+I am closely involved in architectural decisions, contributing to the design of resilient and observable distributed services, using practices such as hexagonal architecture, well-defined service contracts, and a clear separation of responsibilities.
+
+My background in SRE and DevOps complements my work as a backend engineer, allowing me to see the system end-to-end—from code to production. Performance, monitoring, automation, and reliability are all part of the same problem, and that's where I enjoy working.
+
+I believe in impact-driven software engineering: collaboration, continuous learning, and simplicity are the cornerstones for building sustainable systems that are ready to grow.
